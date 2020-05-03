@@ -34,6 +34,6 @@ This App is divided into two main components
 
 
 # References
-- This project is build as part of [rockthejvm.com  spark-streaming](https://rockthejvm.com/p/spark-streaming) Course
+- This project is build as part of [rockthejvm.com  Spark Streaming with Scala](https://rockthejvm.com/p/spark-streaming) Course
   
   
